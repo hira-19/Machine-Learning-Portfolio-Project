@@ -8,8 +8,7 @@
 * The goal of this project is to build and deploy a predictive model to estimate the likelihood of survival on the Titanic based on attributes such as age, sex, class, and fare.
 
 #### Deployment Links: 
-- Hugging Face Deployment: [Your Hugging Face URL]
-- GitHub Repository: [Your GitHub URL]
+- Hugging Face Deployment: https://huggingface.co/spaces/hirasiddiqui/ML-Portfolio-Deployment
 
 ## Objectives:-
 #### Primary Goal: 
@@ -43,10 +42,11 @@ Model Implementation:
 - Linear Regression: Developed and trained the model to predict survival probability.
 - Random Forest: Developed and trained a random forest model for improved accuracy.
 
-Model Evaluation:
-- Linear Regression: Evaluated using R-squared and Mean Squared Error.
+<!---
+Model Evaluation:>
+<- Linear Regression: Evaluated using R-squared and Mean Squared Error.>
 - Random Forest: Evaluated using accuracy, precision, and recall.
-
+-->
 
 #### FastAPI Application:
 
